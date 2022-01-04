@@ -186,7 +186,7 @@ textarea {
 .home-hero {
   color: #fff;
   background-image: url("./assets/BigRoom.gif");
-  //background: linear-gradient(to right, rgba(0, 98, 185, 0.8), rgba(0, 98, 185, 0.8)), url(./assets/BigRoom.gif);
+  /*background: linear-gradient(to right, rgba(0, 98, 185, 0.8), rgba(0, 98, 185, 0.8)), url(./assets/BigRoom.gif);*/
   background-position: center;
   height: 100vh;
   min-height: 80rem;
